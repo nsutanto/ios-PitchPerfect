@@ -11,6 +11,13 @@ import UIKit
 class PlaySoundsViewController: UIViewController {
 
     var recordedAudioURL: URL!
+    @IBOutlet weak var slowButton: UIButton!
+    @IBOutlet weak var fastButton: UIButton!
+    @IBOutlet weak var highPitchButton: UIButton!
+    @IBOutlet weak var lowPitchButton: UIButton!
+    @IBOutlet weak var echoButton: UIButton!
+    @IBOutlet weak var reverbButton: UIButton!
+    @IBOutlet weak var stopButton: UIButton!
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -21,6 +28,14 @@ class PlaySoundsViewController: UIViewController {
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
+    }
+    
+    @IBAction func playSoundForButton(_ sender: UIButton) {
+        print("Play Sound Button Pressed")
+    }
+    
+    @IBAction func stopButtonPressed(_ sender: AnyObject) {
+        print("Stop Audio Button Pressed")
     }
     
 
