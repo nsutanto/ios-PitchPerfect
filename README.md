@@ -6,5 +6,8 @@ This app will allow users to record their voice and will then modulate the recor
 ## Screenshots
 <img src="https://github.com/nsutanto/ios-PitchPerfect/blob/master/ImageAndMedia/IMG_0239.PNG" width="300"> <img src="https://github.com/nsutanto/ios-PitchPerfect/blob/master/ImageAndMedia/IMG_0240.PNG" width="300">
 
+## Video - Make sure you turn on the volume..
+https://vimeo.com/239345153
+
 ## Website
 https://nsutanto.blogspot.com/2017/07/ios-pitch-perfect.html
