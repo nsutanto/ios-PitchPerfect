@@ -10,4 +10,4 @@ This app will allow users to record their voice and will then modulate the recor
 https://vimeo.com/239345153
 
 ## Website
-https://nsutanto.blogspot.com/2017/07/ios-pitch-perfect.html
+https://nsutanto.blogspot.com/p/pitchperfect.html
